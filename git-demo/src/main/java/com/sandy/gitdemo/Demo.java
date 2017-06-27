@@ -17,4 +17,7 @@ public class Demo {
 		System.out.println("Hello World");
 	}
 
+	public static void test(){
+		//ttt
+	}
 }
