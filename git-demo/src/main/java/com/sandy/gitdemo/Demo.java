@@ -19,5 +19,6 @@ public class Demo {
 
 	public static void test(){
 		//ttt
+		System.out.println("Hello World");
 	}
 }
